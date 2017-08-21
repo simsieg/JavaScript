@@ -516,7 +516,7 @@ Reasoning:
 
 - API documentation MUST NOT be written in comments.
   It lives in its own directory/repository
-- Obscure code SHOULD be commented but not obvious things
+- Obscure code SHOULD be commented but not obvious things.
   So do not write comments like this:
 
   ```js
